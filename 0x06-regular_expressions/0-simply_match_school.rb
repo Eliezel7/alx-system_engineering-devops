@@ -1,3 +1,2 @@
 #!/usr/bin/env ruby
-# A script that matches all digits in a string and joins them together
-puts ARGV[0].scan(/Main/).join()
+puts ARGV[0].scan(/Holberton/).join
